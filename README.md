@@ -44,3 +44,7 @@ second line
 - `git log --oneling --graph --all`: shows everything in history
 - `git fetch --prune`: removes the references from deleted branches in the remote
 - PRs dont need to be re-created after each branch update/push in the remote to auto update
+
+## Branch conflicts
+ - happens when banches do work in the same palace and the conflic happens when you make changes in same place
+
