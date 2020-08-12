@@ -1,4 +1,5 @@
 ## Local
+There are commands and notes that were covered during the workshop.
 Hello there
 second line
 - `git commit`: open your default editor to type a commit message and commit changes
