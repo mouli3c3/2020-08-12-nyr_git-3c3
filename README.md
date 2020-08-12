@@ -32,4 +32,15 @@ second line
 	- `git log --oneline --graph --all`: shows you the entire history and makes it p>
 
 ## New branch
+## Branches
+- `git branch <NAME>`: creates a new branch, <NAME> where HEAD is
+	- `git checkout -b <NAME>`: got crate and move to branch in 1 sstep
+	- `git swithc -c <NAME>`: newer git version to do the same task
+	- `git check out <BRANCH>`:move to branch <BRANCH>
+		- `git switch <BRANCH>`: newer way
 
+## Pull Requests (online merge)
+
+- `git log --oneling --graph --all`: shows everything in history
+- `git fetch --prune`: removes the references from deleted branches in the remote
+- PRs dont need to be re-created after each branch update/push in the remote to auto update
