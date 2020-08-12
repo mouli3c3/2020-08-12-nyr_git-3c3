@@ -25,3 +25,6 @@ second line
 - `git push <WHERE> <WHAT>`: pushes <WHAT> to <WHERE>
 	- `git push origin master`
 	- do this once for rstudio: `git push -u origin master` 
+- `git long --oneline`: will now show referenes to the remote eg origin/master
+
+	- `git log --oneline --graph --all`: shows you the entire history and makes it p>
