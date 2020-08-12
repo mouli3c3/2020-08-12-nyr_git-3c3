@@ -1,3 +1,4 @@
+## Local
 Hello there
 second line
 - `git commit`: open your default editor to type a commit message and commit changes
@@ -14,6 +15,8 @@ second line
 - `git restore <FILE>`: throws away changes from <FILE>
 	- can also use this to unstage from staging area
 	- older versions of git use `git rest`
+## Remote
+- `git push`
 
 - `.gitignore`: special file git uses to ingore files/folders
 	- `git add -f <FILE>` force add a file that is ignored
