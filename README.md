@@ -1,3 +1,4 @@
+# Git workshop
 ## Local
 There are commands and notes that were covered during the workshop.
 Hello there
