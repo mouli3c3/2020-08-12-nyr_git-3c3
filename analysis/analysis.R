@@ -1,1 +1,1 @@
-print(rnorm(
+print(runiform(10))
