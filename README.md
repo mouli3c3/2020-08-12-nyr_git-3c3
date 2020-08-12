@@ -45,6 +45,10 @@ second line
 - `git fetch --prune`: removes the references from deleted branches in the remote
 - PRs dont need to be re-created after each branch update/push in the remote to auto update
 
+<<<<<<< HEAD
 ## Branch conflicts
  - happens when banches do work in the same palace and the conflic happens when you make changes in same place
 
+=======
+## Rebase
+- `git rebase <BRANCH>`: rebase gainst a branch to rewind and play back commits
