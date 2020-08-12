@@ -15,3 +15,10 @@ second line
 	- can also use this to unstage from staging area
 	- older versions of git use `git rest`
 
+- `.gitignore`: special file git uses to ingore files/folders
+	- `git add -f <FILE>` force add a file that is ignored
+- `git remote add <NAME> <URL>`: adds the reference <NAME> to the <URL>
+	- `git remote add origin <SSH URL>`
+- `git push <WHERE> <WHAT>`: pushes <WHAT> to <WHERE>
+	- `git push origin master`
+	- do this once for rstudio: `git push -u origin master` 
