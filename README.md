@@ -30,3 +30,6 @@ second line
 - `git long --oneline`: will now show referenes to the remote eg origin/master
 
 	- `git log --oneline --graph --all`: shows you the entire history and makes it p>
+
+## New branch
+
